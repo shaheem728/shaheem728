@@ -2,12 +2,6 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
-###
-
-<p align="left">My name is shaheem a</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
