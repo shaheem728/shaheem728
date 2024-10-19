@@ -1,4 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm shaheem mahmood</h1>
+<h3 align="center">A passionate fullstack developer from India</h3>
+
 
 ###
 
@@ -11,18 +13,7 @@
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-
-
-
-
 ###
-
-<h1 align="center">Hi 👋, I'm shaheem mahmood</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheem728&label=Profile%20views&color=0e75b6&style=flat" alt="shaheem728" /> </p>
-
 
 - 🔭 I’m currently working on **Ecommerece**
 
