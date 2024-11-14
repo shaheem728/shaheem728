@@ -6,14 +6,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
 ###
 
 - 🔭 I’m currently working on **Ecommerece**
+  
+- 📚 I'm currently learning **Next.js**
 
-- 🌱 I’m currently learning **Django**
-
-- 👨‍💻 All of my projects are available at [shaheem728](shaheem728)
+- 👨‍💻 All of my projects are available at [shaheem](shaheem728)
 
 - 📫 How to reach me **shaheemmahmood728@gmail.com**
 
