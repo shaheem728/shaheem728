@@ -13,7 +13,7 @@
   
 - 📚 I'm currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [shaheem]([shaheem728](https://github.com/shaheem728?tab=repositories))
+- 👨‍💻 All of my projects are available at [shaheem](https://github.com/shaheem728?tab=repositories)
 
 - 📫 How to reach me **shaheemmahmood728@gmail.com**
 
