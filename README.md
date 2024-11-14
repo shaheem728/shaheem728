@@ -9,7 +9,7 @@
 
 ###
 
-- 🔭 I’m currently working on **Ecommerece**
+- 🔭 I’m currently working on **Ecommerce**
   
 - 📚 I'm currently learning **Next.js**
 
