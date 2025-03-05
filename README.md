@@ -9,9 +9,9 @@
 
 ###
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **ChatApp**
   
-- 📚 I'm currently learning **Next.js**
+- 📚 I'm currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [shaheem](https://github.com/shaheem728?tab=repositories)
 
