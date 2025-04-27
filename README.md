@@ -29,14 +29,16 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="Tailwind CSS" />
 </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
     <a href="https://redux.js.org/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>  
+  <a href="https://nextjs.org/" target="_blank" >
+  <img src="https://raw.githubusercontent.com/shaheem728/shaheem728/main/assets/th.jpeg" alt="Next.js" height="50"   />
+</a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40" /> </a>                                           
-<a href="https://nextjs.org/" target="_blank" >
-  <img src="https://raw.githubusercontent.com/shaheem728/shaheem728/main/assets/th.jpeg" alt="Next.js" height="50"   />
-</a>
+  <a href="https://docker.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="60" height="50" /> </a>                                           
+
 
 
 
