@@ -8,14 +8,14 @@
 
 
 ###
-
+<!--
 - 🔭 I’m currently working on <a href='https://github.com/shaheem728/JARVIS'>**JARVIS**</a>
   
 - 📚 I'm currently learning **Docker**
-
+-->
 - 👨‍💻 All of my projects are available at [shaheem](https://github.com/shaheem728?tab=repositories)
 
-- 📫 How to reach me **shaheemmahmood728@gmail.com**
+- 📫 How to reach me **shaheemmahmoodofficial@gmail.com**
 
 # Skills and Technologies
 
